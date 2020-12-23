@@ -15,6 +15,9 @@ Explanation: The first two digits or the last three digits are consecutive 1s.
     The maximum number of consecutive 1s is 3.
 ```
 
+#### [View Solution](https://github.com/mackbowes/leetcode-solutions/blob/main/arrays-max-consecutive-ones.js)
+
+
 ### [Find Numbers with Even Number of Digits](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3237/)
 - Runtime: 80ms (>80% of JS Submissions)
 - Memory Usage: 39mb (>89.70% of JS Submissions)
@@ -32,6 +35,8 @@ Explanation:
 Therefore only 12 and 7896 contain an even number of digits.
 ```
 
+#### [View Solution](https://github.com/mackbowes/leetcode-solutions/blob/main/arrays-find-numbers-even-number-digits.js)
+
 ### [Squares of a Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3237/)
 - Runtime: 116ms (>85.07% of JS Submissions)
 - Memory Usage: 45.5mb (>33.03% of JS Submissions) lol
@@ -43,6 +48,8 @@ Output: [0,1,9,16,100]
 Explanation: After squaring, the array becomes [16,1,0,9,100].
 After sorting, it becomes [0,1,9,16,100].
 ```
+
+#### [View Solution](https://github.com/mackbowes/leetcode-solutions/blob/main/arrays-squares-of-sorted-array.js)
 
 ### [Duplicate Zeros](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/)
 - Runtime: 92ms (>63.08% of JS Submissions)
@@ -56,3 +63,5 @@ Input: [1,0,2,3,0,4,5,0]
 Output: null
 Explanation: After calling your function, the input array is modified to: [1,0,0,2,3,0,0,4]
 ```
+
+#### [View Solution](https://github.com/mackbowes/leetcode-solutions/blob/main/arrays-duplicate-zeros.js)
