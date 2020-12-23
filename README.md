@@ -49,9 +49,7 @@ After sorting, it becomes [0,1,9,16,100].
 - Memory Usage: 40.3mb (>69.54% of JS Submissions)
 - TODO: refactor code without using standard Javascript functions to see if performance improves
 > Given a fixed length array `arr` of integers, duplicate each occurrence of zero, shifting the remaining elements to the right.
-
 > Note that elements beyond the length of the original array are not written.
-
 > Do the above modifications to the input array in place, do not return anything from your function.
 ```
 Input: [1,0,2,3,0,4,5,0]
