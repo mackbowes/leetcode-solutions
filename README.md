@@ -5,6 +5,8 @@ A collection of my solutions for LeetCode Challenges.
 ## Arrays (Fun With Arrays)
 
 ### Max Consecutive Ones
+Runtime: 84ms (>81.04% of JS Submissions)
+Memory Usage: 41.1mb (>72.47% of JS Submissions)
 > Given a binary array, find the maximum number of consecutive 1s in this array.
 ```
 Input: [1,1,0,1,1,1]
@@ -14,6 +16,8 @@ Explanation: The first two digits or the last three digits are consecutive 1s.
 ```
 
 ### Find Numbers with Even Number of Digits
+Runtime: 80ms (>80% of JS Submissions)
+Memory Usage: 39mb (>89.70% of JS Submissions)
 > Given an array `nums` of integers, return how many of them contain an even number of digits.
 
 ```
